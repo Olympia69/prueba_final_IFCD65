@@ -1,0 +1,16 @@
+body {
+   color: white;
+}
+
+#container {
+    width: 649px;
+    height: 979px;
+    top: 51px;
+    left: 636px;
+    border-radius: 50px;
+    color: #141414;
+    background-color: red;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+}
